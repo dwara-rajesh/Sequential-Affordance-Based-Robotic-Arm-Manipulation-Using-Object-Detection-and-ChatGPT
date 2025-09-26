@@ -8,6 +8,7 @@ This repository contains the implementation and simulation files for the paper:
 The project investigates how **Large Language Models (LLMs)**, specifically ChatGPT, can be integrated with **object detection** and **affordance reasoning** to enable robotic arms to perform **multi-step manipulation tasks** in response to natural language commands.  
 
 Simulation & Implementation files: https://drive.google.com/drive/folders/1n3EUZbuvptDlwyPfofB9im6LaRWsYxmC?usp=drive_link
+
 ---
 
 ## 🧩 Research Objectives  
